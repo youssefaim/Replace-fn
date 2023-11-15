@@ -1,0 +1,5 @@
+m=input("Type a character stringe :")
+f=input("Type the letter that will be removed :")
+v=input("Type the letter that will be replaced :")
+x=m.replace(f,v)
+print(x)
